@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif101&label=Profile%20views&color=0e75b6&style=flat" alt="sharif101" /> </p>
 
-- 🔭 I’m currently working on [TakeItChessy](https://fastidious-banoffee-e28f72.netlify.app/)
+- 🔭 I’m currently working on [TakeItChessy](https://takeitchessy.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js, Redux**
 
