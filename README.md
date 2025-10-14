@@ -5,16 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif101&label=Profile%20views&color=0e75b6&style=flat" alt="sharif101" /> </p>
 
-- 🔭 I’m currently working on [TakeItChessy](https://takeitchessy.netlify.app/)
-
-- 🌱 I’m currently learning **Next.js, Redux**
-
-- 👨‍💻 All of my projects are available at [https://sharifprotfolio.web.app/](https://sharifprotfolio.web.app/)
-
-- 📝 I regularly write articles on [https://sharifprotfolio.web.app/blogs](https://sharifprotfolio.web.app/blogs)
-
-- 💬 Ask me about **react**
-
+- 🔭 I’m currently working at Healthx Ventures LTD as a Software Engineer.
 - 📫 How to reach me **mdsharif.patwary01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
