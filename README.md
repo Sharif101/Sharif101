@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sharif4900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sharif4900" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-sharif-patwary-0508861a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sharif-patwary-0508861a0/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013377559133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013377559133" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCuc0T8ZipfuetD9lAoz1STg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="today's learn" height="30" width="40" /></a>
